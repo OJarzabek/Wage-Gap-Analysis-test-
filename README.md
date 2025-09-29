@@ -1,0 +1,1 @@
+This is the code for my Bachelor’s Thesis. It isn’t perfect, since it was my first project in Python and I had to learn the language on my own. There are many aspects that could be improved, but I’m sharing it here in its raw form.
